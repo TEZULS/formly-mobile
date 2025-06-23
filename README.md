@@ -4,19 +4,10 @@
 
 Below are some screenshots and images related to the project:
 
-<div style="display: flex; gap: 20px;">
-
-  <div style="flex: 1;">
-    <h3>Home Screen</h3>
-    <img src="./readme/home.png" alt="App Home Screen" style="max-width: 80%; height: auto;" />
-  </div>
-
-  <div style="flex: 1;">
-    <h3>Profil Screen</h3>
-    <img src="./readme/profil.png" alt="Profil Screen" style="max-width: 80%; height: auto;" />
-  </div>
-
-</div>
+<p float="left">
+  <img src="./readme/home.png" width="300" alt="Home Screen" />
+  <img src="./readme/profil.png" width="300" alt="Profil Screen" />
+</p>
 
 ## Overview
 This project is a test for a mission with React Native and Expo. Its main objective is to validate and demonstrate the required functionalities and logic that would be used in a real mission context. The codebase includes components and modules that simulate or test critical operations, ensuring reliability and accuracy before deployment.
